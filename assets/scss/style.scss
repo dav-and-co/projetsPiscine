@@ -1,0 +1,10 @@
+// ligne à copier dans terminal pour alimenter style.scss et style.css
+//  dart-sass/sass scss/style.scss css/style.css --watch
+
+@import "base/reset";
+@import "abstract/variables";
+@import "abstract/mixin";
+@import "base/general";
+@import "layout/header";
+@import "layout/main";
+@import "layout/footer";
